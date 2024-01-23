@@ -3,8 +3,29 @@
 
 * {
   font-family: "Manrope", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
 .light-color {
   color: rgba(19, 19, 24, 0.6);
 }
+
+.button {
+  padding: 10px 22px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #ff4240;
+  border-radius: 8px;
+}
+.bg-img {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* circle starts */
+
+/* circle starts ends */
