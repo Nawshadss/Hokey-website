@@ -27,5 +27,13 @@
 }
 
 /* circle starts */
+.round {
+  height: 100px;
+  width: 100px;
+  background-color: aquamarine;
+  border-bottom: 10px solid #ff4240;
+  border-left: 10px solid #ff4240;
 
+  border-radius: 50%;
+}
 /* circle starts ends */
